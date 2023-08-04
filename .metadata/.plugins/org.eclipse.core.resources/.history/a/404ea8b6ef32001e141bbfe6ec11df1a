@@ -1,0 +1,18 @@
+package TestAutomation;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class LaunchPrac {
+
+	public static void main(String[] args) {
+		
+		
+		System.setProperty(, null)
+		WebDriver driver = new ChromeDriver();
+		
+		
+	}
+	
+	
+}
