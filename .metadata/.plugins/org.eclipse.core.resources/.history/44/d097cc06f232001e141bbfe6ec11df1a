@@ -1,0 +1,25 @@
+package TestAutomation;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class LaunchPrac {
+
+	public static WebDriver driver;
+	
+	public static void main(String[] args) {
+		
+		
+		//WebDriver driver;
+		
+		driver =  WebDriverManager.chromedriver().create();
+		driver.get("https://whitehat:aUV9NLtDZaVqLAjN@whitehat.impactguru.com/carepalsecure?pay=0");
+		String title = driver.getTitle();
+		System.out.println(title);
+		driver.quit();
+	}
+	
+	
+}

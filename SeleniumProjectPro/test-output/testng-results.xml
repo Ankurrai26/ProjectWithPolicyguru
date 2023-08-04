@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T23:57:45 IST" name="Default suite" finished-at="2023-08-04T23:58:03 IST" duration-ms="17697">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T23:57:45 IST" name="Default test" finished-at="2023-08-04T23:58:03 IST" duration-ms="17697">
+      <class name="TestAutomation.LaunchPrac">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestAutomation.LaunchPrac@78e4deb0]" started-at="2023-08-04T23:57:45 IST" name="Setup" finished-at="2023-08-04T23:58:03 IST" duration-ms="17384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Test()[pri:0, instance:TestAutomation.LaunchPrac@78e4deb0]" started-at="2023-08-04T23:58:03 IST" name="Test" finished-at="2023-08-04T23:58:03 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="clear()[pri:0, instance:TestAutomation.LaunchPrac@78e4deb0]" started-at="2023-08-04T23:58:03 IST" name="clear" finished-at="2023-08-04T23:58:03 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+      </class> <!-- TestAutomation.LaunchPrac -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
