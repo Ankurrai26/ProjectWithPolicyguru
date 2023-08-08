@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-08T21:36:36 IST" name="Default suite" finished-at="2023-08-08T21:36:56 IST" duration-ms="20047">
+  <suite started-at="2023-08-08T21:52:11 IST" name="Default suite" finished-at="2023-08-08T21:52:25 IST" duration-ms="14654">
     <groups>
     </groups>
-    <test started-at="2023-08-08T21:36:36 IST" name="Default test" finished-at="2023-08-08T21:36:56 IST" duration-ms="20047">
+    <test started-at="2023-08-08T21:52:11 IST" name="Default test" finished-at="2023-08-08T21:52:25 IST" duration-ms="14654">
       <class name="TestAutomation.LaunchPrac">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:TestAutomation.LaunchPrac@78e4deb0]" started-at="2023-08-08T21:36:36 IST" name="Setup" finished-at="2023-08-08T21:36:56 IST" duration-ms="19632" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestAutomation.LaunchPrac@78e4deb0]" started-at="2023-08-08T21:52:11 IST" name="Setup" finished-at="2023-08-08T21:52:25 IST" duration-ms="14238" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="Test()[pri:0, instance:TestAutomation.LaunchPrac@78e4deb0]" started-at="2023-08-08T21:36:56 IST" name="Test" finished-at="2023-08-08T21:36:56 IST" duration-ms="29" status="PASS">
+        <test-method signature="Test()[pri:0, instance:TestAutomation.LaunchPrac@78e4deb0]" started-at="2023-08-08T21:52:25 IST" name="Test" finished-at="2023-08-08T21:52:25 IST" duration-ms="35" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-        <test-method is-config="true" signature="clear()[pri:0, instance:TestAutomation.LaunchPrac@78e4deb0]" started-at="2023-08-08T21:36:56 IST" name="clear" finished-at="2023-08-08T21:36:56 IST" duration-ms="304" status="PASS">
+        <test-method is-config="true" signature="clear()[pri:0, instance:TestAutomation.LaunchPrac@78e4deb0]" started-at="2023-08-08T21:52:25 IST" name="clear" finished-at="2023-08-08T21:52:25 IST" duration-ms="285" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clear -->
