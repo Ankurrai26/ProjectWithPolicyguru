@@ -1,0 +1,17 @@
+package TestAutomation;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
+
+public class inbuildmethods {
+
+	
+	public static void Dropdownselect(WebElement Valuehavetoselect) {
+	
+	Select dropdown = new Select(Valuehavetoselect);
+	
+			
+	}
+	
+	
+}

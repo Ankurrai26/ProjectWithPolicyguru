@@ -1,0 +1,17 @@
+package BasicJavaPrac;
+
+//String is an object that represent the sequence of character
+
+public class StringTestplan {
+
+	public static void main(String[] args) {
+		
+		String name = "aaaaaaaaaa";
+		String name1 = "aaaaaaaaaa";
+		
+		String s = new String("aaaaaaaaaa");
+		
+	}
+	
+	
+}
